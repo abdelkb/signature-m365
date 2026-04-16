@@ -13,8 +13,8 @@ Office.initialize = function () {};
 
 // ─── Configuration ────────────────────────────────────────────
 const CONFIG = {
-  CLIENT_ID: "VOTRE_CLIENT_ID_ENTRA",          // App Registration > Application (client) ID
-  LOGO_URL:  "https://VOTRE_DOMAINE.COM/logo.png", // URL publique du logo (remplacer)
+  CLIENT_ID: "97de9a70-15a7-4062-87aa-a0f43c45421b",          // App Registration > Application (client) ID
+  LOGO_URL:  "https://abdelkb.github.io/signature-m365/addin/assets/logo.png", // URL publique du logo (remplacer)
   LOGO_HEIGHT: "50",                             // Hauteur du logo en px
   COULEUR_PRINCIPALE: "#003366",                 // Couleur de la barre latérale
 };
