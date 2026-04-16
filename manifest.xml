@@ -22,12 +22,12 @@
   <DisplayName DefaultValue="Signature Automatique"/>
   <Description DefaultValue="Insère automatiquement la signature depuis le profil Microsoft 365"/>
 
-  <IconUrl DefaultValue="https://VOTRE_DOMAINE.COM/addin/assets/icon-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://VOTRE_DOMAINE.COM/addin/assets/icon-128.png"/>
-  <SupportUrl DefaultValue="https://VOTRE_DOMAINE.COM"/>
+  <IconUrl DefaultValue="https://abdelkb.github.io/signature-m365/addin/assets/icon-64.png"/>
+  <HighResolutionIconUrl DefaultValue="https://abdelkb.github.io/signature-m365/addin/assets/icon-128.png"/>
+  <SupportUrl DefaultValue="https://abdelkb.github.io/signature-m365"/>
 
   <AppDomains>
-    <AppDomain>https://VOTRE_DOMAINE.COM</AppDomain>
+    <AppDomain>https://abdelkb.github.io/signature-m365</AppDomain>
   </AppDomains>
 
   <Hosts>
@@ -44,14 +44,14 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://VOTRE_DOMAINE.COM/addin/signature.html"/>
+        <SourceLocation DefaultValue="https://abdelkb.github.io/signature-m365/addin/signature.html"/>
         <RequestedHeight>0</RequestedHeight>
       </DesktopSettings>
     </Form>
     <!-- Composition : nouveaux emails ET réponses/transferts -->
     <Form xsi:type="ItemEdit">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://VOTRE_DOMAINE.COM/addin/signature.html"/>
+        <SourceLocation DefaultValue="https://abdelkb.github.io/signature-m365/addin/signature.html"/>
         <RequestedHeight>0</RequestedHeight>
       </DesktopSettings>
     </Form>
