@@ -12,7 +12,7 @@
        et mettre à jour les URLs d'hébergement des fichiers HTML/JS
        ============================================================ -->
 
-  <Id>a1b2c3d4-e5f6-7890-abcd-ef1234567890</Id>
+  <Id>f7a3b921-4d8e-4c6f-b205-9e1d73a82c54</Id>
   <!-- Générer un nouveau GUID unique via : [System.Guid]::NewGuid() en PowerShell -->
 
   <Version>1.0.0.0</Version>
